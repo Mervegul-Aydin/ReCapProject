@@ -1,0 +1,61 @@
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\Business.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Business\obj\Debug\net6.0\ref\Business.dll
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\Business.dll
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\Business.pdb
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\Entities.dll
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\c# uygulamalar\MyReCapProject\Business\bin\Debug\net6.0\Entities.pdb
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.dll
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\Business.pdb
+C:\c# uygulamalar\MyReCapProject\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Core.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Business\obj\Debug\net6.0\ref\Business.dll

@@ -1,0 +1,47 @@
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\mervegul.aydin\source\repos\MyReCapProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\c# uygulamalar\MyReCapProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\c# uygulamalar\MyReCapProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\c# uygulamalar\MyReCapProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\c# uygulamalar\MyReCapProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\MyReCapProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\LENOVO\Desktop\FBÜ-DERS\Engin\MyReCapProject\Entities\obj\Debug\net6.0\ref\Entities.dll
